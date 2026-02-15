@@ -31,6 +31,7 @@ This project implements a **forward-chaining Knowledge-Based System (KBS)** to a
 - `README.md`: System documentation and setup instructions.
 
 ## 👤 Student Information
-- **Name:** [Your Full Name]
-- **Registration Number:** [Your Registration Number]
+- **Name:** [Elvis Kinyua]
+- **Registration Number:** [666842]
+
 - **Course:** Introduction to Knowledge-Based Systems
